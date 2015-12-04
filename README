@@ -2,13 +2,7 @@ NAME
     Acme::Timecube - Installs 4 corner cubic wisdom.
 
 VERSION
-    Version 0.01
-
 SYNOPSIS
-    Quick summary of what the module does.
-
-    Perhaps a little code snippet.
-
         use Acme::Timecube;
 
         my $tc = Acme::Timecube->new();
