@@ -1,10 +1,10 @@
-# NAME
+## NAME
 
 Acme::Timecube - Installs 4 corner cubic wisdom.
 
-# VERSION
+## VERSION
 
-# SYNOPSIS
+## SYNOPSIS
 
     use Acme::Timecube;
 
@@ -19,26 +19,26 @@ Acme::Timecube - Installs 4 corner cubic wisdom.
     # A lecture on why you are a stupid educated fool
     $tc->lecture;
 
-# METHODS
+## METHODS
 
-## new
+### new
 
 Creates a new [Acme::Timecube](http://search.cpan.org/perldoc?Acme::Timecube) object.
 
-## debate, discourse, discussion, dissertation, essay, exposition, lecture, preach, sermon, speech, treatise
+### debate, discourse, discussion, dissertation, essay, exposition, lecture, preach, sermon, speech, treatise
 
 Deliver a debate, discourse, discussion, dissertation, essay, exposition, lecture, preach, 
 sermon, speech or treatise on Timecube philosophy and science.
 
-# AUTHOR
+## AUTHOR
 
 Luke Poskitt, `<ltp at cpan.org>`
 
-# BUGS
+## BUGS
 
 None.  Acme::Timecube is free from your stupid, academic 1 day bugs.
 
-# SUPPORT
+## SUPPORT
 
 You can find documentation for this module with the perldoc command.
 
@@ -62,11 +62,11 @@ You can also look for information at:
 
     [http://search.cpan.org/dist/Acme-Timecube/](http://search.cpan.org/dist/Acme-Timecube/)
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
 Gene Ray - mad props
 
-# LICENSE AND COPYRIGHT
+## LICENSE AND COPYRIGHT
 
 Copyright 2012 Luke Poskitt.
 
